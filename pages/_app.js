@@ -1,5 +1,5 @@
-import "../styles/globals.css"
-import Link from "next/Link"
+import "../styles/globals.css";
+import Link from "next/link";
 
 function Marketplace({Component,pageProps}){
   return(
@@ -27,4 +27,5 @@ function Marketplace({Component,pageProps}){
     </div>
   )
 }
+
 export default Marketplace
